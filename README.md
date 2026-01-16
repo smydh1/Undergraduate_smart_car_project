@@ -28,7 +28,8 @@ The Template Matching process:
 
 
 
-
+## Code Structure
+- `codes/main_code.cpp` — main implementation (C++)
 
 
 
