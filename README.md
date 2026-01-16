@@ -13,9 +13,9 @@ _5) Task recognition (template / colour-based):Classified tasks using template m
 _6) Peripheral integration for multi-task execution:Ultrasonic distance-based stopping (TRIG/ECHO) and Servo camera tilt control using_  
 
 
-![Task demo example: Foot ball kiking](assets/robot_demo1.jpg)
+![Task demo example: Foot ball kiking](assets/demo_figure1.png)
 
-![Template Matching process](assets/robot_demo2.jpg)
+![Template Matching process](assets/demo_figure2.png)
 
 
 
