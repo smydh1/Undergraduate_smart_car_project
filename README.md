@@ -12,10 +12,15 @@ _4) Task marker detection & automatic stopping: Detected magenta task markers us
 _5) Task recognition (template / colour-based):Classified tasks using template matching and ROI colour detection (red/yellow/green/blue)_  
 _6) Peripheral integration for multi-task execution:Ultrasonic distance-based stopping (TRIG/ECHO) and Servo camera tilt control using_  
 
+One task example: football kiking:
+<p align="center">
+  <img src="assets/demo_figure1.png" width="300">
+</p>
 
-![Task demo example: Foot ball kiking](assets/demo_figure1.png)
-
-![Template Matching process](assets/demo_figure2.png)
+The Template Matching process:
+<p align="center">
+  <img src="assets/demo_figure2.png" width="300">
+</p>
 
 
 
